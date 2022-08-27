@@ -1,9 +1,9 @@
 [
   {
-    "full_name": "libp2p/go-libp2p",
-    "stargazers_count": 4699,
-    "open_issues_count": 277,
-    "forks_count": 786
+    "full_name": "pterm/pterm",
+    "stargazers_count": 2910,
+    "open_issues_count": 39,
+    "forks_count": 102
   },
   {
     "full_name": "libp2p/go-libp2p",
@@ -13,14 +13,14 @@
   },
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 26236,
+    "stargazers_count": 26239,
     "open_issues_count": 212,
     "forks_count": 1433
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 758,
-    "open_issues_count": 17,
+    "open_issues_count": 18,
     "forks_count": 365
   }
 ]
