@@ -1,9 +1,9 @@
 [
   {
     "full_name": "Developer-Y/technical-interviews",
-    "stargazers_count": 839,
+    "stargazers_count": 844,
     "open_issues_count": 0,
-    "forks_count": 253
+    "forks_count": 254
   },
   {
     "full_name": "mgechev/google-interview-preparation-problems",
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 27893,
-    "open_issues_count": 279,
-    "forks_count": 1522
+    "stargazers_count": 28009,
+    "open_issues_count": 286,
+    "forks_count": 1542
   },
   {
     "full_name": "Azanul/Sorting-Visualized",
@@ -25,21 +25,21 @@
   },
   {
     "full_name": "dcbuild3r/blockchain-development-guide",
-    "stargazers_count": 1262,
+    "stargazers_count": 1263,
     "open_issues_count": 2,
     "forks_count": 121
   },
   {
     "full_name": "abhisheknaiidu/awesome-github-profile-readme",
-    "stargazers_count": 14610,
-    "open_issues_count": 383,
-    "forks_count": 2555
+    "stargazers_count": 14671,
+    "open_issues_count": 385,
+    "forks_count": 2581
   },
   {
     "full_name": "quackduck/devzat",
-    "stargazers_count": 1382,
-    "open_issues_count": 9,
-    "forks_count": 73
+    "stargazers_count": 1385,
+    "open_issues_count": 7,
+    "forks_count": 72
   },
   {
     "full_name": "Azanul/Searching-Visualized",
@@ -128,7 +128,7 @@
   {
     "full_name": "Azanul/CodeChef-Learning-Series-Solutions",
     "stargazers_count": 6,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 46324,
-    "open_issues_count": 309,
-    "forks_count": 11300
+    "stargazers_count": 46458,
+    "open_issues_count": 290,
+    "forks_count": 11346
   },
   {
     "full_name": "Taiyogakure/chunin-exams",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "gohugoio/hugo",
-    "stargazers_count": 62660,
-    "open_issues_count": 651,
-    "forks_count": 6803
+    "stargazers_count": 62738,
+    "open_issues_count": 660,
+    "forks_count": 6821
   },
   {
     "full_name": "Taiyogakure/Beauty-Score-Prediction",
@@ -177,6 +177,6 @@
     "full_name": "cysmith/neural-style-tf",
     "stargazers_count": 3035,
     "open_issues_count": 67,
-    "forks_count": 837
+    "forks_count": 838
   }
 ]
