@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "questdb/questdb",
+    "stargazers_count": 9301,
+    "open_issues_count": 286,
+    "forks_count": 536
+  },
+  {
     "full_name": "Developer-Y/technical-interviews",
-    "stargazers_count": 844,
+    "stargazers_count": 847,
     "open_issues_count": 0,
-    "forks_count": 254
+    "forks_count": 255
   },
   {
     "full_name": "mgechev/google-interview-preparation-problems",
@@ -13,9 +19,9 @@
   },
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 28009,
+    "stargazers_count": 28087,
     "open_issues_count": 286,
-    "forks_count": 1542
+    "forks_count": 1553
   },
   {
     "full_name": "Azanul/Sorting-Visualized",
@@ -31,13 +37,13 @@
   },
   {
     "full_name": "abhisheknaiidu/awesome-github-profile-readme",
-    "stargazers_count": 14671,
-    "open_issues_count": 385,
-    "forks_count": 2581
+    "stargazers_count": 14717,
+    "open_issues_count": 383,
+    "forks_count": 2590
   },
   {
     "full_name": "quackduck/devzat",
-    "stargazers_count": 1385,
+    "stargazers_count": 1386,
     "open_issues_count": 7,
     "forks_count": 72
   },
@@ -151,9 +157,9 @@
   },
   {
     "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 46458,
-    "open_issues_count": 290,
-    "forks_count": 11346
+    "stargazers_count": 46633,
+    "open_issues_count": 297,
+    "forks_count": 11636
   },
   {
     "full_name": "Taiyogakure/chunin-exams",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "gohugoio/hugo",
-    "stargazers_count": 62738,
-    "open_issues_count": 660,
-    "forks_count": 6821
+    "stargazers_count": 62810,
+    "open_issues_count": 659,
+    "forks_count": 6833
   },
   {
     "full_name": "Taiyogakure/Beauty-Score-Prediction",
     "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "cysmith/neural-style-tf",
-    "stargazers_count": 3035,
-    "open_issues_count": 67,
-    "forks_count": 838
   }
 ]
