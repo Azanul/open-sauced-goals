@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "appwrite/appwrite",
+    "stargazers_count": 26887,
+    "open_issues_count": 823,
+    "forks_count": 2215
+  },
+  {
+    "full_name": "nsqio/nsq",
+    "stargazers_count": 22869,
+    "open_issues_count": 64,
+    "forks_count": 2810
+  },
+  {
     "full_name": "Azanul/Sorting-Visualized",
     "stargazers_count": 9,
     "open_issues_count": 11,
@@ -7,15 +19,15 @@
   },
   {
     "full_name": "questdb/questdb",
-    "stargazers_count": 9565,
-    "open_issues_count": 286,
-    "forks_count": 583
+    "stargazers_count": 9587,
+    "open_issues_count": 290,
+    "forks_count": 587
   },
   {
     "full_name": "Developer-Y/technical-interviews",
     "stargazers_count": 873,
     "open_issues_count": 0,
-    "forks_count": 260
+    "forks_count": 261
   },
   {
     "full_name": "mgechev/google-interview-preparation-problems",
@@ -25,25 +37,25 @@
   },
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 28719,
-    "open_issues_count": 305,
-    "forks_count": 1604
+    "stargazers_count": 28808,
+    "open_issues_count": 311,
+    "forks_count": 1616
   },
   {
     "full_name": "dcbuild3r/blockchain-development-guide",
-    "stargazers_count": 1268,
+    "stargazers_count": 1265,
     "open_issues_count": 2,
     "forks_count": 122
   },
   {
     "full_name": "abhisheknaiidu/awesome-github-profile-readme",
-    "stargazers_count": 15048,
-    "open_issues_count": 381,
-    "forks_count": 2657
+    "stargazers_count": 15100,
+    "open_issues_count": 383,
+    "forks_count": 2664
   },
   {
     "full_name": "quackduck/devzat",
-    "stargazers_count": 1386,
+    "stargazers_count": 1388,
     "open_issues_count": 8,
     "forks_count": 75
   },
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 47462,
-    "open_issues_count": 259,
-    "forks_count": 11898
+    "stargazers_count": 47580,
+    "open_issues_count": 261,
+    "forks_count": 11946
   },
   {
     "full_name": "Taiyogakure/chunin-exams",
     "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "gohugoio/hugo",
-    "stargazers_count": 63294,
-    "open_issues_count": 670,
-    "forks_count": 6856
-  },
-  {
-    "full_name": "Taiyogakure/Beauty-Score-Prediction",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
