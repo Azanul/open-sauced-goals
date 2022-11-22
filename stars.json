@@ -1,21 +1,21 @@
 [
   {
     "full_name": "markodenic/awesome-tech-blogs",
-    "stargazers_count": 643,
+    "stargazers_count": 647,
     "open_issues_count": 8,
     "forks_count": 355
   },
   {
     "full_name": "appwrite/appwrite",
-    "stargazers_count": 27235,
-    "open_issues_count": 711,
-    "forks_count": 2240
+    "stargazers_count": 27308,
+    "open_issues_count": 724,
+    "forks_count": 2252
   },
   {
     "full_name": "nsqio/nsq",
-    "stargazers_count": 22934,
+    "stargazers_count": 22939,
     "open_issues_count": 65,
-    "forks_count": 2810
+    "forks_count": 2808
   },
   {
     "full_name": "Azanul/Sorting-Visualized",
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "questdb/questdb",
-    "stargazers_count": 9686,
-    "open_issues_count": 289,
-    "forks_count": 601
+    "stargazers_count": 9695,
+    "open_issues_count": 287,
+    "forks_count": 602
   },
   {
     "full_name": "Developer-Y/technical-interviews",
@@ -39,13 +39,13 @@
     "full_name": "mgechev/google-interview-preparation-problems",
     "stargazers_count": 1908,
     "open_issues_count": 1,
-    "forks_count": 341
+    "forks_count": 340
   },
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 29360,
+    "stargazers_count": 29484,
     "open_issues_count": 304,
-    "forks_count": 1647
+    "forks_count": 1659
   },
   {
     "full_name": "dcbuild3r/blockchain-development-guide",
@@ -55,13 +55,13 @@
   },
   {
     "full_name": "abhisheknaiidu/awesome-github-profile-readme",
-    "stargazers_count": 15338,
-    "open_issues_count": 394,
-    "forks_count": 2732
+    "stargazers_count": 15385,
+    "open_issues_count": 395,
+    "forks_count": 2740
   },
   {
     "full_name": "quackduck/devzat",
-    "stargazers_count": 1394,
+    "stargazers_count": 1402,
     "open_issues_count": 8,
     "forks_count": 75
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 48073,
-    "open_issues_count": 263,
-    "forks_count": 12101
+    "stargazers_count": 48193,
+    "open_issues_count": 256,
+    "forks_count": 12142
   }
 ]
