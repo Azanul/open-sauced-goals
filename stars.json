@@ -1,19 +1,19 @@
 [
   {
     "full_name": "markodenic/awesome-tech-blogs",
-    "stargazers_count": 654,
+    "stargazers_count": 655,
     "open_issues_count": 10,
     "forks_count": 356
   },
   {
     "full_name": "appwrite/appwrite",
-    "stargazers_count": 27795,
-    "open_issues_count": 756,
-    "forks_count": 2299
+    "stargazers_count": 27842,
+    "open_issues_count": 759,
+    "forks_count": 2305
   },
   {
     "full_name": "nsqio/nsq",
-    "stargazers_count": 23015,
+    "stargazers_count": 23018,
     "open_issues_count": 65,
     "forks_count": 2812
   },
@@ -25,13 +25,13 @@
   },
   {
     "full_name": "questdb/questdb",
-    "stargazers_count": 9801,
-    "open_issues_count": 316,
-    "forks_count": 612
+    "stargazers_count": 9850,
+    "open_issues_count": 319,
+    "forks_count": 614
   },
   {
     "full_name": "Developer-Y/technical-interviews",
-    "stargazers_count": 882,
+    "stargazers_count": 883,
     "open_issues_count": 0,
     "forks_count": 265
   },
@@ -43,25 +43,25 @@
   },
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 30108,
-    "open_issues_count": 310,
-    "forks_count": 1713
+    "stargazers_count": 30220,
+    "open_issues_count": 312,
+    "forks_count": 1717
   },
   {
     "full_name": "dcbuild3r/blockchain-development-guide",
     "stargazers_count": 1286,
     "open_issues_count": 2,
-    "forks_count": 124
+    "forks_count": 125
   },
   {
     "full_name": "abhisheknaiidu/awesome-github-profile-readme",
-    "stargazers_count": 15786,
-    "open_issues_count": 401,
-    "forks_count": 2816
+    "stargazers_count": 15822,
+    "open_issues_count": 403,
+    "forks_count": 2822
   },
   {
     "full_name": "quackduck/devzat",
-    "stargazers_count": 1405,
+    "stargazers_count": 1408,
     "open_issues_count": 9,
     "forks_count": 75
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 48895,
-    "open_issues_count": 265,
-    "forks_count": 12539
+    "stargazers_count": 49000,
+    "open_issues_count": 267,
+    "forks_count": 12595
   }
 ]
