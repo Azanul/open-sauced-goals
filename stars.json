@@ -1,21 +1,21 @@
 [
   {
     "full_name": "markodenic/awesome-tech-blogs",
-    "stargazers_count": 655,
-    "open_issues_count": 10,
-    "forks_count": 356
+    "stargazers_count": 658,
+    "open_issues_count": 12,
+    "forks_count": 358
   },
   {
     "full_name": "appwrite/appwrite",
-    "stargazers_count": 27842,
-    "open_issues_count": 759,
-    "forks_count": 2305
+    "stargazers_count": 27903,
+    "open_issues_count": 712,
+    "forks_count": 2311
   },
   {
     "full_name": "nsqio/nsq",
-    "stargazers_count": 23018,
-    "open_issues_count": 65,
-    "forks_count": 2812
+    "stargazers_count": 23025,
+    "open_issues_count": 60,
+    "forks_count": 2813
   },
   {
     "full_name": "Azanul/Sorting-Visualized",
@@ -25,39 +25,39 @@
   },
   {
     "full_name": "questdb/questdb",
-    "stargazers_count": 9850,
-    "open_issues_count": 319,
+    "stargazers_count": 9865,
+    "open_issues_count": 325,
     "forks_count": 614
   },
   {
     "full_name": "Developer-Y/technical-interviews",
-    "stargazers_count": 883,
+    "stargazers_count": 884,
     "open_issues_count": 0,
-    "forks_count": 265
+    "forks_count": 266
   },
   {
     "full_name": "mgechev/google-interview-preparation-problems",
-    "stargazers_count": 1918,
+    "stargazers_count": 1917,
     "open_issues_count": 1,
     "forks_count": 342
   },
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 30220,
-    "open_issues_count": 312,
-    "forks_count": 1717
+    "stargazers_count": 30280,
+    "open_issues_count": 315,
+    "forks_count": 1723
   },
   {
     "full_name": "dcbuild3r/blockchain-development-guide",
-    "stargazers_count": 1286,
+    "stargazers_count": 1283,
     "open_issues_count": 2,
     "forks_count": 125
   },
   {
     "full_name": "abhisheknaiidu/awesome-github-profile-readme",
-    "stargazers_count": 15822,
-    "open_issues_count": 403,
-    "forks_count": 2822
+    "stargazers_count": 15867,
+    "open_issues_count": 404,
+    "forks_count": 2829
   },
   {
     "full_name": "quackduck/devzat",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 49000,
+    "stargazers_count": 49088,
     "open_issues_count": 267,
-    "forks_count": 12595
+    "forks_count": 12646
   }
 ]
