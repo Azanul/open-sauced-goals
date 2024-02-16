@@ -1,33 +1,39 @@
 [
   {
+    "full_name": "Azanul/wuphf-dot-com",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "resonatehq/resonate",
-    "stargazers_count": 137,
+    "stargazers_count": 138,
     "open_issues_count": 22,
     "forks_count": 14
   },
   {
     "full_name": "openpubkey/openpubkey",
-    "stargazers_count": 504,
-    "open_issues_count": 24,
+    "stargazers_count": 503,
+    "open_issues_count": 23,
     "forks_count": 28
   },
   {
     "full_name": "dgryski/go-perfbook",
     "stargazers_count": 10506,
     "open_issues_count": 9,
-    "forks_count": 627
+    "forks_count": 628
   },
   {
     "full_name": "prometheus-operator/prometheus-operator",
-    "stargazers_count": 8576,
-    "open_issues_count": 240,
-    "forks_count": 3660
+    "stargazers_count": 8581,
+    "open_issues_count": 249,
+    "forks_count": 3662
   },
   {
     "full_name": "tailwarden/komiser",
-    "stargazers_count": 3769,
+    "stargazers_count": 3776,
     "open_issues_count": 245,
-    "forks_count": 418
+    "forks_count": 419
   },
   {
     "full_name": "Azanul/peer-pressure",
@@ -43,9 +49,9 @@
   },
   {
     "full_name": "AmbientRun/Ambient",
-    "stargazers_count": 3652,
+    "stargazers_count": 3657,
     "open_issues_count": 277,
-    "forks_count": 122
+    "forks_count": 123
   },
   {
     "full_name": "Ambareen09/medusa-store",
@@ -62,12 +68,12 @@
   {
     "full_name": "markodenic/awesome-tech-blogs",
     "stargazers_count": 780,
-    "open_issues_count": 1,
-    "forks_count": 404
+    "open_issues_count": 2,
+    "forks_count": 405
   },
   {
     "full_name": "nsqio/nsq",
-    "stargazers_count": 24375,
+    "stargazers_count": 24379,
     "open_issues_count": 62,
     "forks_count": 2939
   },
@@ -79,9 +85,9 @@
   },
   {
     "full_name": "questdb/questdb",
-    "stargazers_count": 13222,
-    "open_issues_count": 464,
-    "forks_count": 1044
+    "stargazers_count": 13229,
+    "open_issues_count": 462,
+    "forks_count": 1045
   },
   {
     "full_name": "Developer-Y/technical-interviews",
@@ -91,15 +97,15 @@
   },
   {
     "full_name": "mgechev/google-interview-preparation-problems",
-    "stargazers_count": 3079,
+    "stargazers_count": 3083,
     "open_issues_count": 2,
     "forks_count": 516
   },
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 46342,
-    "open_issues_count": 681,
-    "forks_count": 3011
+    "stargazers_count": 46411,
+    "open_issues_count": 689,
+    "forks_count": 3017
   },
   {
     "full_name": "dcbuild3r/blockchain-development-guide",
@@ -109,9 +115,9 @@
   },
   {
     "full_name": "abhisheknaiidu/awesome-github-profile-readme",
-    "stargazers_count": 21352,
-    "open_issues_count": 495,
-    "forks_count": 3435
+    "stargazers_count": 21431,
+    "open_issues_count": 494,
+    "forks_count": 3444
   },
   {
     "full_name": "quackduck/devzat",
@@ -169,12 +175,6 @@
   },
   {
     "full_name": "Azanul/Pointer-cam",
-    "stargazers_count": 6,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "Azanul/LeetCode_Algorithms",
     "stargazers_count": 6,
     "open_issues_count": 0,
     "forks_count": 0
