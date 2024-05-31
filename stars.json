@@ -7,31 +7,31 @@
   },
   {
     "full_name": "resonatehq/resonate",
-    "stargazers_count": 261,
+    "stargazers_count": 264,
     "open_issues_count": 22,
-    "forks_count": 22
+    "forks_count": 23
   },
   {
     "full_name": "openpubkey/openpubkey",
-    "stargazers_count": 573,
-    "open_issues_count": 37,
+    "stargazers_count": 586,
+    "open_issues_count": 38,
     "forks_count": 34
   },
   {
     "full_name": "dgryski/go-perfbook",
-    "stargazers_count": 10577,
+    "stargazers_count": 10579,
     "open_issues_count": 9,
     "forks_count": 593
   },
   {
     "full_name": "prometheus-operator/prometheus-operator",
-    "stargazers_count": 8795,
+    "stargazers_count": 8804,
     "open_issues_count": 268,
-    "forks_count": 3673
+    "forks_count": 3674
   },
   {
     "full_name": "tailwarden/komiser",
-    "stargazers_count": 3867,
+    "stargazers_count": 3868,
     "open_issues_count": 233,
     "forks_count": 422
   },
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "AmbientRun/Ambient",
-    "stargazers_count": 3738,
+    "stargazers_count": 3739,
     "open_issues_count": 277,
     "forks_count": 123
   },
@@ -68,14 +68,14 @@
   {
     "full_name": "markodenic/awesome-tech-blogs",
     "stargazers_count": 791,
-    "open_issues_count": 8,
-    "forks_count": 411
+    "open_issues_count": 7,
+    "forks_count": 410
   },
   {
     "full_name": "nsqio/nsq",
-    "stargazers_count": 24639,
+    "stargazers_count": 24651,
     "open_issues_count": 64,
-    "forks_count": 2891
+    "forks_count": 2890
   },
   {
     "full_name": "Azanul/Sorting-Visualized",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "questdb/questdb",
-    "stargazers_count": 13726,
+    "stargazers_count": 13823,
     "open_issues_count": 512,
-    "forks_count": 1049
+    "forks_count": 1084
   },
   {
     "full_name": "Developer-Y/technical-interviews",
@@ -97,27 +97,27 @@
   },
   {
     "full_name": "mgechev/google-interview-preparation-problems",
-    "stargazers_count": 3107,
+    "stargazers_count": 3108,
     "open_issues_count": 2,
     "forks_count": 481
   },
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 49529,
-    "open_issues_count": 756,
-    "forks_count": 3241
+    "stargazers_count": 49607,
+    "open_issues_count": 763,
+    "forks_count": 3253
   },
   {
     "full_name": "dcbuild3r/blockchain-development-guide",
-    "stargazers_count": 1345,
+    "stargazers_count": 1346,
     "open_issues_count": 4,
     "forks_count": 131
   },
   {
     "full_name": "abhisheknaiidu/awesome-github-profile-readme",
-    "stargazers_count": 22870,
+    "stargazers_count": 22904,
     "open_issues_count": 515,
-    "forks_count": 3562
+    "forks_count": 3568
   },
   {
     "full_name": "quackduck/devzat",
@@ -144,13 +144,13 @@
     "forks_count": 0
   },
   {
-    "full_name": "Azanul/whatsapp-automation",
+    "full_name": "Azanul/anuraghazra",
     "stargazers_count": 6,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
-    "full_name": "Azanul/anuraghazra",
+    "full_name": "Azanul/whatsapp-automation",
     "stargazers_count": 6,
     "open_issues_count": 0,
     "forks_count": 0
