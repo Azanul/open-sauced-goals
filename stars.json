@@ -8,7 +8,7 @@
   {
     "full_name": "resonatehq/resonate",
     "stargazers_count": 556,
-    "open_issues_count": 32,
+    "open_issues_count": 33,
     "forks_count": 43
   },
   {
@@ -19,15 +19,15 @@
   },
   {
     "full_name": "dgryski/go-perfbook",
-    "stargazers_count": 10880,
+    "stargazers_count": 10878,
     "open_issues_count": 9,
     "forks_count": 603
   },
   {
     "full_name": "prometheus-operator/prometheus-operator",
-    "stargazers_count": 9794,
-    "open_issues_count": 305,
-    "forks_count": 3829
+    "stargazers_count": 9796,
+    "open_issues_count": 319,
+    "forks_count": 3830
   },
   {
     "full_name": "tailwarden/komiser",
@@ -43,13 +43,13 @@
   },
   {
     "full_name": "Leafwing-Studios/Emergence",
-    "stargazers_count": 286,
+    "stargazers_count": 285,
     "open_issues_count": 176,
     "forks_count": 36
   },
   {
     "full_name": "AmbientRun/Ambient",
-    "stargazers_count": 3888,
+    "stargazers_count": 3889,
     "open_issues_count": 281,
     "forks_count": 128
   },
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "nsqio/nsq",
-    "stargazers_count": 25871,
+    "stargazers_count": 25878,
     "open_issues_count": 70,
-    "forks_count": 2908
+    "forks_count": 2907
   },
   {
     "full_name": "Azanul/Sorting-Visualized",
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "questdb/questdb",
-    "stargazers_count": 16515,
+    "stargazers_count": 16519,
     "open_issues_count": 803,
     "forks_count": 1520
   },
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 67224,
-    "open_issues_count": 903,
-    "forks_count": 4812
+    "stargazers_count": 67284,
+    "open_issues_count": 901,
+    "forks_count": 4817
   },
   {
     "full_name": "dcbuild3r/blockchain-development-guide",
@@ -115,13 +115,13 @@
   },
   {
     "full_name": "abhisheknaiidu/awesome-github-profile-readme",
-    "stargazers_count": 28773,
-    "open_issues_count": 620,
-    "forks_count": 4243
+    "stargazers_count": 28800,
+    "open_issues_count": 622,
+    "forks_count": 4247
   },
   {
     "full_name": "quackduck/devzat",
-    "stargazers_count": 3984,
+    "stargazers_count": 3986,
     "open_issues_count": 22,
     "forks_count": 153
   },
