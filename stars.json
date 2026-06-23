@@ -1,8 +1,8 @@
 [
   {
     "full_name": "lvgl/lvgl",
-    "stargazers_count": 23855,
-    "open_issues_count": 200,
+    "stargazers_count": 23880,
+    "open_issues_count": 201,
     "forks_count": 4216
   },
   {
@@ -13,33 +13,33 @@
   },
   {
     "full_name": "resonatehq/resonate",
-    "stargazers_count": 601,
+    "stargazers_count": 606,
     "open_issues_count": 21,
     "forks_count": 51
   },
   {
     "full_name": "openpubkey/openpubkey",
     "stargazers_count": 892,
-    "open_issues_count": 36,
+    "open_issues_count": 37,
     "forks_count": 72
   },
   {
     "full_name": "dgryski/go-perfbook",
-    "stargazers_count": 10901,
+    "stargazers_count": 10902,
     "open_issues_count": 9,
     "forks_count": 600
   },
   {
     "full_name": "prometheus-operator/prometheus-operator",
-    "stargazers_count": 9940,
-    "open_issues_count": 286,
-    "forks_count": 3858
+    "stargazers_count": 9941,
+    "open_issues_count": 285,
+    "forks_count": 3856
   },
   {
     "full_name": "mlabouardy/komiser",
-    "stargazers_count": 4131,
+    "stargazers_count": 4133,
     "open_issues_count": 265,
-    "forks_count": 451
+    "forks_count": 453
   },
   {
     "full_name": "Denklinie/peer-pressure",
@@ -74,12 +74,12 @@
   {
     "full_name": "markodenic/awesome-tech-blogs",
     "stargazers_count": 874,
-    "open_issues_count": 1,
-    "forks_count": 447
+    "open_issues_count": 0,
+    "forks_count": 448
   },
   {
     "full_name": "nsqio/nsq",
-    "stargazers_count": 25736,
+    "stargazers_count": 25738,
     "open_issues_count": 79,
     "forks_count": 2892
   },
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "questdb/questdb",
-    "stargazers_count": 17097,
-    "open_issues_count": 850,
-    "forks_count": 1605
+    "stargazers_count": 17125,
+    "open_issues_count": 857,
+    "forks_count": 1612
   },
   {
     "full_name": "Developer-Y/technical-interviews",
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 72560,
-    "open_issues_count": 1034,
-    "forks_count": 5487
+    "stargazers_count": 72845,
+    "open_issues_count": 1038,
+    "forks_count": 5507
   },
   {
     "full_name": "dcbuild3r/blockchain-development-guide",
@@ -121,13 +121,13 @@
   },
   {
     "full_name": "abhisheknaiidu/awesome-github-profile-readme",
-    "stargazers_count": 30276,
-    "open_issues_count": 683,
-    "forks_count": 4417
+    "stargazers_count": 30312,
+    "open_issues_count": 682,
+    "forks_count": 4415
   },
   {
     "full_name": "quackduck/devzat",
-    "stargazers_count": 4046,
+    "stargazers_count": 4049,
     "open_issues_count": 27,
     "forks_count": 151
   },
