@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "agentrhq/webcmd",
+    "stargazers_count": 1532,
+    "open_issues_count": 22,
+    "forks_count": 890
+  },
+  {
     "full_name": "thecodearcher/limen",
     "stargazers_count": 517,
     "open_issues_count": 7,
@@ -7,9 +13,9 @@
   },
   {
     "full_name": "lvgl/lvgl",
-    "stargazers_count": 24432,
-    "open_issues_count": 223,
-    "forks_count": 4308
+    "stargazers_count": 24468,
+    "open_issues_count": 220,
+    "forks_count": 4316
   },
   {
     "full_name": "Azanul/wuphf-dot-com",
@@ -25,7 +31,7 @@
   },
   {
     "full_name": "openpubkey/openpubkey",
-    "stargazers_count": 901,
+    "stargazers_count": 903,
     "open_issues_count": 40,
     "forks_count": 73
   },
@@ -37,8 +43,8 @@
   },
   {
     "full_name": "prometheus-operator/prometheus-operator",
-    "stargazers_count": 9973,
-    "open_issues_count": 304,
+    "stargazers_count": 9974,
+    "open_issues_count": 308,
     "forks_count": 3866
   },
   {
@@ -61,7 +67,7 @@
   },
   {
     "full_name": "AmbientRun/Ambient",
-    "stargazers_count": 3907,
+    "stargazers_count": 3908,
     "open_issues_count": 281,
     "forks_count": 130
   },
@@ -79,15 +85,15 @@
   },
   {
     "full_name": "markodenic/awesome-tech-blogs",
-    "stargazers_count": 877,
+    "stargazers_count": 875,
     "open_issues_count": 4,
     "forks_count": 447
   },
   {
     "full_name": "nsqio/nsq",
-    "stargazers_count": 25771,
+    "stargazers_count": 25773,
     "open_issues_count": 77,
-    "forks_count": 2891
+    "forks_count": 2892
   },
   {
     "full_name": "Azanul/Sorting-Visualized",
@@ -97,8 +103,8 @@
   },
   {
     "full_name": "questdb/questdb",
-    "stargazers_count": 17267,
-    "open_issues_count": 921,
+    "stargazers_count": 17276,
+    "open_issues_count": 935,
     "forks_count": 1640
   },
   {
@@ -109,15 +115,15 @@
   },
   {
     "full_name": "mgechev/google-interview-preparation-problems",
-    "stargazers_count": 3167,
+    "stargazers_count": 3168,
     "open_issues_count": 2,
     "forks_count": 472
   },
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 75792,
+    "stargazers_count": 75926,
     "open_issues_count": 999,
-    "forks_count": 5894
+    "forks_count": 5910
   },
   {
     "full_name": "dcbuild3r/blockchain-development-guide",
@@ -127,13 +133,13 @@
   },
   {
     "full_name": "abhisheknaiidu/awesome-github-profile-readme",
-    "stargazers_count": 30868,
-    "open_issues_count": 706,
+    "stargazers_count": 30913,
+    "open_issues_count": 708,
     "forks_count": 4449
   },
   {
     "full_name": "quackduck/devzat",
-    "stargazers_count": 4064,
+    "stargazers_count": 4065,
     "open_issues_count": 26,
     "forks_count": 150
   },
@@ -169,12 +175,6 @@
   },
   {
     "full_name": "Azanul/GRIP-internship-work-TSP",
-    "stargazers_count": 6,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "Azanul/LeetCode-Solutions",
     "stargazers_count": 6,
     "open_issues_count": 0,
     "forks_count": 0
