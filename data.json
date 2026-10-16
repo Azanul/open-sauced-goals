@@ -1,9 +1,9 @@
 [
   {
     "full_name": "mattermost/mattermost",
-    "stargazers_count": 39323,
-    "open_issues_count": 1089,
-    "forks_count": 9048
+    "stargazers_count": 39345,
+    "open_issues_count": 1095,
+    "forks_count": 9052
   },
   {
     "full_name": "pterm/pterm",
@@ -14,19 +14,19 @@
   {
     "full_name": "libp2p/go-libp2p",
     "stargazers_count": 6890,
-    "open_issues_count": 303,
-    "forks_count": 1295
+    "open_issues_count": 304,
+    "forks_count": 1296
   },
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 77278,
-    "open_issues_count": 1036,
-    "forks_count": 6060
+    "stargazers_count": 77429,
+    "open_issues_count": 1035,
+    "forks_count": 6073
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 946,
     "open_issues_count": 0,
-    "forks_count": 1180
+    "forks_count": 1179
   }
 ]
